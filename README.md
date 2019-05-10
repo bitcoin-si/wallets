@@ -1,5 +1,5 @@
 
-### Bitcoin association Slovenia public cryptocurrency wallets and supported payment options
+### Bitcoin association Slovenia donation cryptocurrency wallets and other supported payment options
 
 ## Bank/Sepa
 
