@@ -11,7 +11,7 @@
 
 ## Ledger NanoS
 
-- ETH (Ethereum): 0x0e35F386db0B7B75FAD572294448Df84f80B95c4
+- ETH (Ethereum) and any erc20 token: 0x0e35F386db0B7B75FAD572294448Df84f80B95c4
 
 ## Tokens.net
 
