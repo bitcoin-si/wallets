@@ -1,21 +1,26 @@
 
 ### Bitcoin association Slovenia donation cryptocurrency wallets and other supported payment options
 
-## Bank/Sepa
+## Yearly association membership supported payment options  
+
 
 - IBAN SI56 6100 0000 7165 058 (DELAVSKA HRANILNICA d.d. LJUBLJANA)  
 
-## Bitcoin Multisig
-
 - BTC (Bitcoin): 327W9mZMNJmTum59tWhMKCu8UGsrxq1oEx
 
-## Ledger NanoS
+- ETH (Ethereum): 0x0e35F386db0B7B75FAD572294448Df84f80B95c4
 
-- ETH (Ethereum) and any ERC20 token: 0x0e35F386db0B7B75FAD572294448Df84f80B95c4
+- Paypal: info@bitcoin.si
 
-## Tokens.net
+- Elipay: https://bitcoinassociation.si/izdelek/letna-clanarina-bitcoin-drustvo-slovenije/
+
+- Coinpayments: https://bitcoinassociation.si/izdelek/letna-clanarina-bitcoin-drustvo-slovenije/
+
+## Donation
+
 
 - USDT - TETHER (OMNI):	1NVgaiJFmhgMFkMjAHcdwj8HqZ8k1UXDyV
+- ETH (Ethereum) and any ERC20 token: 0x0e35F386db0B7B75FAD572294448Df84f80B95c4
 - DTR - DYNAMIC TRADING RIGHTS:	0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 - BTC - BITCOIN:	32zbHdj4YiCg9gYEkajM7ygUGAjBwvx3ic
 - LTC - LITECOIN:	LbeZRXRHHc1jV74dkpnxsjACMDyEiUaz2p
@@ -43,13 +48,6 @@
 - BAT -BASIC ATTENTION TOKES: 0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 - ADA - CARDANO ADA: DdzFFzCqrhspsz98v16RED3kNLdmyKrrxJZf8ghoiUwZGU1dwEeej68mmjiFSkYjKnJRPM1WVybYzeoCqVTUkWoeTNPFMfzLGoZNasm8
 
-## PayPal
-
-- Paypal: info@bitcoin.si
-
-## Elipay: 
-
-- Webshop: https://bitcoinassociation.si/izdelek/letna-clanarina-bitcoin-drustvo-slovenije/
 
 ## Weblinks
 
