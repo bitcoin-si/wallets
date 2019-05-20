@@ -16,7 +16,7 @@
 
 - Coinpayments: https://bitcoinassociation.si/izdelek/letna-clanarina-bitcoin-drustvo-slovenije/
 
-## Donation
+## Donations
 
 
 - USDT - TETHER (OMNI):	1NVgaiJFmhgMFkMjAHcdwj8HqZ8k1UXDyV
