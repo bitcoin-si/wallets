@@ -12,9 +12,8 @@
 
 - Paypal: info@bitcoin.si
 
-- Elipay: https://bitcoinassociation.si/izdelek/letna-clanarina-bitcoin-drustvo-slovenije/
+- GoCrypto (BTC, BCH, ETH) : https://bitcoinassociation.si/izdelek/letna-clanarina-bitcoin-drustvo-slovenije/
 
-- Coinpayments: https://bitcoinassociation.si/izdelek/letna-clanarina-bitcoin-drustvo-slovenije/
 
 ## Donations
 
