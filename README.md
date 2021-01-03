@@ -4,7 +4,7 @@
 ## Yearly association membership supported payment options  
 
 
-- IBAN SI56 6100 0000 7165 058 (DELAVSKA HRANILNICA d.d. LJUBLJANA)  
+- IBAN: SI56 6100 0000 7165 058 (DELAVSKA HRANILNICA d.d. LJUBLJANA)  
 
 - BTC (Bitcoin): 32zbHdj4YiCg9gYEkajM7ygUGAjBwvx3ic
 
