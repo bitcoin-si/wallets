@@ -6,11 +6,11 @@
 
 - IBAN SI56 6100 0000 7165 058 (DELAVSKA HRANILNICA d.d. LJUBLJANA)  
 
-- BTC (Bitcoin): 327W9mZMNJmTum59tWhMKCu8UGsrxq1oEx
+- BTC (Bitcoin): 32zbHdj4YiCg9gYEkajM7ygUGAjBwvx3ic
 
 - BCH (BitcoinCash): bitcoincash:qre4h3vu782ezgs3jjs7fa04t6ahlx5n5slxkr5rhx
 
-- ETH (Ethereum): 0x0e35F386db0B7B75FAD572294448Df84f80B95c4
+- ETH (Ethereum): 0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 
 - USDT (Tether): 0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 
@@ -32,14 +32,14 @@
 
 - Paypal: info@bitcoin.si
 
-- GoCrypto (BTC, BCH, ETH) : https://bitcoinassociation.si/izdelek/letna-clanarina-bitcoin-drustvo-slovenije/
+- GoCrypto payments : https://bitcoinassociation.si/izdelek/letna-clanarina-bitcoin-drustvo-slovenije/
 
 
 ## Donations
 
 
 - USDT - TETHER (erc20):	0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
-- ETH (Ethereum) and any ERC20 token: 0x0e35F386db0B7B75FAD572294448Df84f80B95c4
+- ETH (Ethereum): 0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 - DTR - DYNAMIC TRADING RIGHTS:	0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 - BTC - BITCOIN:	32zbHdj4YiCg9gYEkajM7ygUGAjBwvx3ic
 - LTC - LITECOIN:	LbeZRXRHHc1jV74dkpnxsjACMDyEiUaz2p
@@ -51,7 +51,6 @@
 - VTY- VERITY:	0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 - LANA - LANACOIN:	LbzVGYym6aUVGA3gWq2x82RtjYUfjZxdZp
 - XMR - MONERO:	4GTDkmbNL8mHBYGV4WHqa9Df63PM6PGWWbrdz6bKB5CjMbgcCRitGFK7fy9zZi6dgfgofHqeRoJGjcJ2LMwST4JH5521TYBmqL92mVokfZ
-- XAUR - XAURUM:	0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 - XRP - RIPPLE:	rPkitTzAi3KahtGAbdCuq3XxZtDjRCG3U8 TAG: 1563619
 - BIT - BLOCKESTATE: 	0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 - XLM - STELLAR LUMENS:	GC62AZDYMGBGPS3MQ5QPTNRNPDRK6F32JAFHTJUBZ4GOSFXASULPKYHG Memo:5ad49260eaefa841
