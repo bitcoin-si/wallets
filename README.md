@@ -26,7 +26,7 @@
 
 - GOC (GoCrypto): simpleledger:qqkykkq6qjczgsw2plx7570380ku2eqpwgmjgrf8nw
 
-- SNC (SunContract): 0x0e35F386db0B7B75FAD572294448Df84f80B95c4
+- SNC (SunContract): 0x30c43144abb57dA3Cf826e6b90B441B83f1808C4
 
 - TRX (Tron): TFQ9V1boizsVABJFrvKuQg2asroKjdPv6j
 
