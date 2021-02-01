@@ -12,7 +12,9 @@
 
 - USDT (Tether): 0xBcf64b49471e0B55EeFeaf7a50FDD0437755Fb72
 
-- Paypal enkratno plačilo (info@bitcoin.si - https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQZARYRH39EP6)
+- Paypal enkratno plačilo ( info@bitcoin.si - https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQZARYRH39EP6 )
+
+- Paypal letna naročnina: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DRJM5WELBD8FE
 
 - Paypal letna naročnina: 
 
