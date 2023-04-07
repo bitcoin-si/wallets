@@ -6,17 +6,15 @@
 
 - Bančni račun: SI56 6100 0000 7165 058 (DELAVSKA HRANILNICA d.d. LJUBLJANA)  
 
-- BTC (Bitcoin): bc1q88ymkrf57j837kjj0xgu48dzf3jfklhvygnv5r
+- BTC (Bitcoin): bc1qufzp9p5wt8fsf7n69f469tx3t4ra8qfx8pwrgh
 
-- ETH (Ethereum): 0xBcf64b49471e0B55EeFeaf7a50FDD0437755Fb72
+- ETH (Ethereum): 0xA682ba7b6cB0289397d911f57C4a51A0bC5D48f5
 
-- USDT (Tether): 0xBcf64b49471e0B55EeFeaf7a50FDD0437755Fb72
+- USDT (Ethereum ERC20): 0xA682ba7b6cB0289397d911f57C4a51A0bC5D48f5
 
 - Paypal enkratno plačilo ( info@bitcoin.si - https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BQZARYRH39EP6 )
 
 - Paypal letna naročnina: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DRJM5WELBD8FE
-
-- Paypal letna naročnina: 
 
 
 ## Spletne povezave
