@@ -20,8 +20,6 @@
 ## Spletne povezave
 
 - Spletno mesto: https://bitcoin.si/
-- Blog: https://bitcoinassociation.si/ 
-- Facebook stran: https://www.facebook.com/bitcoinassociation.si/
 - Facebook skupina: https://www.facebook.com/groups/kriptovalute/
 - Telegram skupina: https://t.me/BitcoinSi
 - Twitter: https://twitter.com/bitcoinslovenia
