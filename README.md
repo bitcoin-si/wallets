@@ -23,5 +23,5 @@
 - Facebook skupina: https://www.facebook.com/groups/kriptovalute/
 - Telegram skupina: https://t.me/BitcoinSi
 - Twitter: https://twitter.com/bitcoinslovenia
-- Pristopna izjava : https://forms.gle/ZcvZQd3XyA4fdh598
+- Pristopna izjava : https://docs.google.com/forms/d/e/1FAIpQLSfs9Iqf6UhOf04-3haXqhdv63J1-m2h-gMYyzsNmf9aPDDbIQ/viewform
 
